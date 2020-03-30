@@ -29,6 +29,9 @@
     },
     "dependencies": {
         "equihashverify": "git+https://github.com/zencashofficial/equihashverify.git",
+        "multi-hashing": "https://github.com/wahaobi/node-multi-hashing-yespower",
+        "blake2": "*",
+        "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
